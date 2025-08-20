@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Vector Fields Creator",
+	"Description": "For create spline based vector fields",
+	"Category": "FX",
+	"CreatedBy": "FACH",
+	"CreatedByURL": "https://www.youtube.com/user/SFACH13",
+	"DocsURL": "https://docs.google.com/document/d/17ZuILoE7IfTSDwrSZTD-Xv-EgbVmdh5o19E4iAl9kdA/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5973943aa2424ea0a722be0720642e5e",
+	"SupportURL": "FACHMolchanov@gmail.com",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "VFCreator",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Android",
+				"Mac",
+				"IOS",
+				"Linux"
+			]
+		}
+	]
+}
